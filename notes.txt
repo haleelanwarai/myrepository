@@ -1,0 +1,13 @@
+noteGit init
+Git . add
+git commit -m 'message'
+git log
+git checkout id
+git checkout mainsh1
+git remote -v
+git branc - to see master or main
+git remote add (cont name) (ssh)
+git switch -c main
+git push (con name) main 
+git pull
+git push (con name) main
